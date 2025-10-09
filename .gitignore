@@ -1,0 +1,12 @@
+# LaTeX
+*.aux
+*.fls
+*.log
+*.out
+*.toc
+*.idx
+*.ilg
+*.ind
+*.synctex.gz
+*.fdb_latexmk
+*.data.minted
