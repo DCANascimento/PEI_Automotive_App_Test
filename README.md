@@ -19,7 +19,7 @@ Here is the tutorial on how to edit and compile the `.tex` file and get the `.pd
 Note: if the path was already there (like me), you don't need to paste it again and can skip this step altogether. Sometimes the installation already takes cares of this step, sometimes it doesn't, so, here it is just in case.
 
 6) In VSCode, please install the extension "**LaTeX Workshop**" by James Yu. After, please restart VSCode.
-
+ 
 7) Now, it should compile. Just go into the `main.tex` file and click on the :arrow_forward: button to start the process. In the first time it will take some time, don't worry, just look at the `Build` on the bottom left corner showing the process. After compiling, even though it might say that it ended in error, it will give the `main.pdf` file!
 
 Please, if you get stuck on some of these points, just, read it again and try it again.
